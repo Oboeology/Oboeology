@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oboeology
 - 👀 I’m interested in learning to code and classical music!
 - 🌱 I’m currently learning The Odin Project curriculum.
-- 💞️ I’m looking to collaborate on nothing yet! I don't know enough.
+- 💞️ I’m not looking to collaborate on anything yet! I don't know enough.
 - 📫 How to reach me nicholasanu03@gmail.com
 
 <!---
